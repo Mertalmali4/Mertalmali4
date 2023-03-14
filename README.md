@@ -9,9 +9,10 @@ Here are some ideas to get you started:
   
 
 <p>
- <a><img  src="https://github-readme-stats.vercel.app/api?username=Mertalmali4&show_icons=true&theme=radical"/></a>
- <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mertalmali4&show_icons=true&locale=en&layout=compact" alt="Mertalmali4" /></a>
- <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mertalmali4&" alt="Mertalmali4" /></a>
+ <a align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mertalmali4&" alt="Mertalmali4" width="425" /></a>
+ <a align="center"><img  src="https://github-readme-stats.vercel.app/api?username=Mertalmali4&show_icons=true&theme=radical" width="400"/></a> 
+ <a align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Mertalmali4&show_icons=true&locale=en&layout=compact" height="100" alt="Mertalmali4" /></a>
+ 
 </p>
 
 
