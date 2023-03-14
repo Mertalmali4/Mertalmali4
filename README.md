@@ -6,14 +6,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about Computer Vision
 - 📫 How to reach me: **mertalmali4@gmail.com**
 
-
-
-
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=Mertalmali4&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Mertalmali4&show_icons=true&theme=radical)
+  
 
 <p>
+ <a><img  src="https://github-readme-stats.vercel.app/api?username=Mertalmali4&show_icons=true&theme=radical"/></a>
  <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mertalmali4&show_icons=true&locale=en&layout=compact" alt="Mertalmali4" /></a>
  <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mertalmali4&" alt="Mertalmali4" /></a>
 </p>
