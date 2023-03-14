@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Süleyman Mert.</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Deep Learning and Computer Vision
-- 💬 Ask me about Computer Vision
-- 📫 How to reach me: **mertalmali4@gmail.com**
-
+<ul align="left">
+  <li>🔭 I’m currently working on Deep Learning and Computer Vision</li>                        
+  <li>💬 Ask me about Computer Vision</li>  
+  <li>📫 How to reach me: <a href="mertalmali4@gmail.com">mertalmali4@gmail.com</a></li>  
+</ul>
   
 
-<p>
- <a align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mertalmali4&" alt="Mertalmali4" width="425" /></a>
- <a align="center"><img  src="https://github-readme-stats.vercel.app/api?username=Mertalmali4&show_icons=true&theme=radical" width="400"/></a> 
- <a align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Mertalmali4&show_icons=true&locale=en&layout=compact" height="100" alt="Mertalmali4" /></a>
- 
+<p align="center">
+ <a ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mertalmali4&" alt="Mertalmali4" width="425" /></a>
 </p>
 
 
