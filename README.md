@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Süleyman Mert.</h1>
 
 
+![](https://komarev.com/ghpvc/?username=Mertalmali4)
+
 <ul align="left">
   <li>🔭 I’m currently working on Deep Learning and Computer Vision</li>                        
   <li>💬 Ask me about Computer Vision</li>  
