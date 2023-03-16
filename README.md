@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Mertalmali4)
 
 <ul align="left">
-  <li>🔭 I’m currently working on Deep Learning and Computer Vision</li>                        
+  <li>🔭 I’m currently working on Deep Learning,Computer Vision and Artificial Intelligence</li>                        
   <li>💬 Ask me about Computer Vision</li>  
   <li>📫 How to reach me: <a href="mertalmali4@gmail.com">mertalmali4@gmail.com</a></li>  
 </ul>
