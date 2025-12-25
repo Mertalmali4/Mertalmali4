@@ -8,11 +8,7 @@
   <li>💬 Ask me about Computer Vision</li>  
   <li>📫 How to reach me: <a href="mertalmali4@gmail.com">mertalmali4@gmail.com</a></li>  
 </ul>
-  
 
-<p align="center">
- <a ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mertalmali4&" alt="Mertalmali4" width="425" /></a>
-</p>
 
 
 <h2 align="center"><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></h2>
